@@ -4,7 +4,6 @@
 
 ## 主要内容
 
-- `speck_reproduction_1000_cn.py`：1000 行以上中文注释版复现实验脚本。
 - `eval.py`：N5/N6/N7/N8 预训练神经区分器评估。
 - `key_rank.py`：9 轮 key-rank 攻击质量统计。
 - `docs/`：按模板填写的开源软件总结文档。
