@@ -1,0 +1,24 @@
+﻿# Python/Conda environments
+.conda-exp3/
+.conda-pkgs/
+.venv-deep-speck/
+.pyc-check/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated experiment logs and transient outputs
+*.log
+reproduction_outputs/
+data_9r_attack/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary Office lock files
+~$*.doc
+~$*.docx
